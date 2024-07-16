@@ -1,0 +1,26 @@
+# .NET 6
+# ---------------
+# Visual Studio Code specific files
+.vscode/
+*.code-workspace
+
+# .NET Core and .NET 6 specific files
+bin/
+obj/
+*.dll
+*.pdb
+*.log
+*.config
+*.sqlite
+*.sqlite3
+
+# Packages directory
+packages/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.vscode
+*.vsix
+*.sln.docstates
